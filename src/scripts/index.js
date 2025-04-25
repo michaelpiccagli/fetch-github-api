@@ -41,7 +41,6 @@ async function getUserData(userName) {
     user.setRepositories(repositoriesResponse)
     
     screen.renderUser(user)
-
-     
+    
 }
 
